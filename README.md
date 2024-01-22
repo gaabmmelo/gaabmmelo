@@ -6,6 +6,7 @@ Obs: criadora de conteúdo nas horas vagas.
 
 ”A arte de programar consiste em organizar e dominar a complexidade.” (Edsger W. Dijkstra)
 
+## Tecnologias e ferramentas:
 <div style="display: flex;">
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -20,6 +21,8 @@ Obs: criadora de conteúdo nas horas vagas.
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <i class="devicon-wordpress-plain"></i>
 </div>
+
+![Cat programmer](https://i.gifer.com/2GU.gif)
 
 ## Contatos:
 <div>
