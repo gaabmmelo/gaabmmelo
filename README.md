@@ -22,6 +22,11 @@ Obs: criadora de conteúdo nas horas vagas.
   <i class="devicon-wordpress-plain"></i>
 </div>
 
+##
+<div align="center">
+  <img height="120" width="120" src="2GU.gif" />
+</div>
+
 ## Contatos:
 <div>
 <a href="https://instagram.com/gaabmmelo.dev" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -29,4 +34,4 @@ Obs: criadora de conteúdo nas horas vagas.
 <a href="https://www.linkedin.com/in/gaabmmelo" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div><br/>
 
- <img height="120" width="120" src="2GU.gif" />
+
