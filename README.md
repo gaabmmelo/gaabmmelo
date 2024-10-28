@@ -1,10 +1,8 @@
 👋 Oi! 
 
 Meu nome é Gabriela Melo e atuo na área de tecnologia há mais de 8 anos. Atualmente, sou desenvolvedora Full Stack Pleno! 
-Gosto muito de estudar e sou apaixonada pela resolução de problemas.<br/><br/>
+Jogadora assidua de PlayStation 5 e Nintendo Switch! 🎮<br/><br/>
 Obs: criadora de conteúdo nas horas vagas.
-
-”A arte de programar consiste em organizar e dominar a complexidade.” (Edsger W. Dijkstra)
 
 ## Tecnologias e ferramentas:
 <div style="display: flex;">
