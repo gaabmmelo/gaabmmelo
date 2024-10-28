@@ -1,7 +1,7 @@
 👋 Oi! 
 
 Meu nome é Gabriela Melo e atuo na área de tecnologia há mais de 8 anos. Atualmente, sou desenvolvedora Full Stack Pleno! <br/><br/>
-Jogadora assidua de PlayStation 5 e Nintendo Switch! 🎮<br/><br/>
+Jogadora assídua de PlayStation 5 e Nintendo Switch! 🎮<br/><br/>
 Obs: criadora de conteúdo nas horas vagas.
 
 ## Tecnologias e ferramentas:
